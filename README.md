@@ -3,18 +3,17 @@
 <h3 align="center">Passionate Software Engineer at Georgia State University</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently w on **react.js**
+- 🔭 I’m currently working on developing a higher understanding of **react.js**
+
+- 🌟 What Sets Me Apart: **I'm not just a code junkie; I'm a collaborator, a communicator, and a creative thinker. I prioritize clean code, scalability, and performance while ensuring the user experience remains exceptional.**
+
+- 🤝 I’m looking for help with **internships, full-time position, and making myself more valuable**
 
 - 🌱 I’m currently learning **from Andrei Neagoie (Founder of zerotomastery.io)**
 
 - 👯 I’m looking to collaborate on **web application that can help others**
 
-- 🤝 I’m looking for help with **internships, full-time position, and making myself more valuable**
-
-- 📫 How to reach me **zackansari1@gmail.com**
-
-- 🌟 What Sets Me Apart: I'm not just a code monkey; I'm a collaborator, a communicator, and a creative thinker. I prioritize clean code, scalability, and performance while ensuring the user experience remains exceptional.
-
+- 📫 How to reach me: **zackansari1@gmail.com**
 
 <p align="left">
 </p>

@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **web application that can help others**
 
-- 📫 Learn more about me: **https://zackansari.com**
+- 📫 Learn more about me: **zackansari.com**
 
 <p align="left">
 </p>
